@@ -1,8 +1,8 @@
-# 👋 Hello, I'm Nadia Poverenova
+# Hello, I'm Nadia Poverenova
 
 **Data Analyst** at R2P Company
 
-🎯 **Tech Stack:**  
+**Tech Stack:**  
 - Python (Pandas, NumPy)  
 - SQL  
 - Power BI, DataLens  
@@ -10,4 +10,5 @@
 - Matplotlib & Seaborn  
 
 
-💬 Feel free to reach out: **indisa52@gmail.com**
+ Feel free to reach out: **indisa52@gmail.com**
+Telegram **@indisa52**
